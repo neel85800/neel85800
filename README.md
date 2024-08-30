@@ -13,16 +13,19 @@ Hello! My name is Neel Patel, and I am currently pursuing a Bachelor's in Comput
 -Provided safe instruction and ensured proper use of cardio/strength training equipment.
 
 -Enforced facility rules to maintain a safe workout environment.
+
 -Maintained clean and sanitized fitness equipment.
 
 ## UIC Sports and Fitness Center West - Desk Attendant (January 2024 - Present)
 -Delivered customer service by selling and processing memberships.
+
 -Managed front desk operations including answering phones, renting lockers, and scheduling classes.
 
 # Volunteer Experience
 
 ## JAL SEVAK, Ahmedabad - Social Worker (March 2020 - December 2022)
 -Contributed to food and water distribution efforts during peak COVID and hot summer months.
+
 -Engaged in social media management to update the community on available resources.
 
 # Contact Information
