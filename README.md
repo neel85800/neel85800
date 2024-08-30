@@ -11,6 +11,7 @@ Hello! My name is Neel Patel, and I am currently pursuing a Bachelor's in Comput
 
 ## UIC Sports and Fitness Center West - Fitness Attendant (August 2023 - Present)
 -Provided safe instruction and ensured proper use of cardio/strength training equipment.
+
 -Enforced facility rules to maintain a safe workout environment.
 -Maintained clean and sanitized fitness equipment.
 
