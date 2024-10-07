@@ -30,6 +30,6 @@ Hello! My name is Neel Patel, and I am currently pursuing a Bachelor's in Comput
 
 # Contact Information
 
-## Address: 913 S Western Avenue, Chicago, IL 60612
+## Address: Chicago
 ## Phone: +1 (312) 687-4759
 ## Email: npate490@uic.edu
