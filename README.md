@@ -1,35 +1,24 @@
-# About Me
-Hello! My name is Neel Patel, and I am currently pursuing a Bachelor's in Computer Science at the University of Illinois at Chicago (expected graduation in May 2027). I am passionate about programming, problem-solving, and customer service. My experience ranges from IT support to fitness facility management, along with a strong dedication to volunteer work.
+👋 Hello, I'm Neel Patel!
+🎓 Computer Science Student at the University of Illinois at Chicago, graduating in May 2027. I am passionate about software development and always eager to tackle challenging problems.
 
-# Skills
+🔧 Skills and Technologies
 
-## Programming Languages: C++, Python, HTML
-## Software/Frameworks: Microsoft SharePoint, Excel, Access, Word
-## Soft Skills: Customer Service, Problem Solving, Verbal and Written Communication
+Programming Languages: Python, Java, C++, C
+Frameworks and Tools: UI Design, Git, Microsoft Power Apps, Microsoft Power Automate, Microsoft 365
+Proficient in: Debugging, Data Structures, software, hardware, and network troubleshooting
+🛠️ Projects
 
-# Professional Experience
+Ciphers (C++): Developed a text encryption application using classical ciphers like Caesar and substitution, complete with dynamic parsing algorithms and automated test cases for encryption and decryption methods.
+Dynamic Food Web Analysis System (C): Crafted a C-based application to simulate and manage ecological food webs dynamically, incorporating advanced memory management techniques and integrated analytical tools to assess ecological dynamics.
+🏢 Professional Experience
 
-## UIC Sports and Fitness Center West - Fitness Attendant (August 2023 - Present)
--Provided safe instruction and ensured proper use of cardio/strength training equipment.
+Computer Specialist at UIC Technology Solutions: Providing expert technical support, managing computer labs, and ensuring IT infrastructure reliability.
+Desk Attendant at UIC Sports and Fitness Center - West: Managing customer inquiries, processing memberships, and coordinating group fitness and swim classes.
+🌐 I'm currently looking for
 
--Enforced facility rules to maintain a safe workout environment.
+Internship opportunities for Summer 2025 in software engineering roles where I can contribute to meaningful projects and further develop my technical skills.
+📫 How to reach me:
 
--Maintained clean and sanitized fitness equipment.
-
-## UIC Sports and Fitness Center West - Desk Attendant (January 2024 - Present)
--Delivered customer service by selling and processing memberships.
-
--Managed front desk operations including answering phones, renting lockers, and scheduling classes.
-
-# Volunteer Experience
-
-## JAL SEVAK, Ahmedabad - Social Worker (March 2020 - December 2022)
--Contributed to food and water distribution efforts during peak COVID and hot summer months.
-
--Engaged in social media management to update the community on available resources.
-
-# Contact Information
-
-## Address: Chicago
-## Phone: +1 (312) 687-4759
-## Email: npate490@uic.edu
+LinkedIn
+Email
+GitHub
