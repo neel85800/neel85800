@@ -1,4 +1,5 @@
 👋 Hello, I'm Neel Patel!
+
 🎓 Computer Science Student at the University of Illinois at Chicago, graduating in May 2027. I am passionate about software development and always eager to tackle challenging problems.
 
 🔧 Skills and Technologies
