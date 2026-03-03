@@ -8,7 +8,7 @@ Programming Languages: Python, Java, C++, C
 Frameworks and Tools: UI Design, Git, Microsoft Power Apps, Microsoft Power Automate, Microsoft 365, TDX system
 Proficient in: Debugging, Data Structures, software, hardware, and network troubleshooting
 
-Internship opportunities for Summer 2025 in software engineering roles where I can contribute to meaningful projects and further develop my technical skills.
+Internship opportunities for Summer 2026 in software engineering roles where I can contribute to meaningful projects and further develop my technical skills.
 📫 How to reach me:
 
 LinkedIn: https://www.linkedin.com/in/npate490/
